@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-//10 struct GridStack<Content: View>: View {
+//7 struct GridStack<Content: View>: View {
 //    let rows: Int
 //    let columns: Int
 //    @ViewBuilder let content: (Int, Int) -> Content
